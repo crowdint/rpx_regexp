@@ -1,4 +1,4 @@
-# RPX_Crowdint
+# RPX_Regexp
 
 Whenever we want to authenticate users on a Rails app, we like to go
 with [Janrain](http://www.janrain.com/) + [Devise](https://github.com/plataformatec/devise).
