@@ -1,3 +1,3 @@
-module RpxCrowdint
+module RpxRegexp
   VERSION = "0.0.1"
 end

@@ -1,10 +1,10 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "rpx_crowdint/version"
+require "rpx_regexp/version"
 
 Gem::Specification.new do |s|
-  s.name        = "rpx_crowdint"
-  s.version     = RpxCrowdint::VERSION
+  s.name        = "rpx_regexp"
+  s.version     = RpxRegexp::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["TODO: Write your name"]
   s.email       = ["TODO: Write your email address"]
