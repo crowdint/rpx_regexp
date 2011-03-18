@@ -1,5 +1,4 @@
 require 'test_helper'
-require 'mocha'
 
 describe RPXNow do
   it "aliases user_data to user_data!" do
